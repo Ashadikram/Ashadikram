@@ -23,7 +23,8 @@
 
   ## 💰 You can help me by Donating
 
-![Profile Views](https://hits.sh/github.com/Ashadikram.svg?view=today-total)
+![Profile Views](https://hits.sh/github.com/Ashadikram.svg?label=Profile%20Views&color=blue)
+![Profile Views](https://hits.sh/github.com/Ashadikram.svg?view=today-total&label=Visitors)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
